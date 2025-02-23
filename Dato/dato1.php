@@ -1,1 +1,6 @@
-hola mundo
+<?php 
+
+echo "Dato 1";
+
+
+?>
